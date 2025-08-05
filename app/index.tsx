@@ -1,4 +1,5 @@
 import './global.css';
+import { useRouter } from 'expo-router';
 
 import { View, Text } from 'react-native';
 import { Link , Router } from 'expo-router';
